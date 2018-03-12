@@ -1277,3 +1277,22 @@ footer {
 .copyright p a:hover {
   color: #61D2B4;
 }
+
+/* ScrolBar */
+
+
+body::-webkit-scrollbar-thumb{
+ background-color:#fff;
+ height:3px;
+ border: 10px solid #424242;
+
+}
+
+body::-webkit-scrollbar{
+ height:10px;
+ width:10px;
+ /* background-color:#454545; */
+ /* border-left: 5px solid #fff; */
+ /* border-right: 5px solid #fff; */
+
+}
