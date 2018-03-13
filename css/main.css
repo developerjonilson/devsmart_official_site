@@ -267,20 +267,20 @@ button:focus {
   background: #4867AA;
 }
 
-.twitter a {
+.instagram a {
   color: #1DA1F2;
 }
 
-.twitter a:hover {
-  background: #1DA1F2;
+.instagram a:hover {
+  background: #871F82;
 }
 
-.google-plus a {
-  color: #DD4D42;
+.whatsapp a {
+  color: #000000;
 }
 
-.google-plus a:hover {
-  background: #DD4D42;
+.whatsapp a:hover {
+  background: #52CC5F;
 }
 
 .youtube a {
@@ -1094,13 +1094,13 @@ button:focus {
   color: #fff;
 }
 
-.single-team .social-list .twitter a:hover {
-  background: #1da1f2;
+.single-team .social-list .instagram a:hover {
+  background: #871F82;
   color: #fff;
 }
 
-.single-team .social-list .google-plus a:hover {
-  background: #dd4d42;
+.single-team .social-list .whatsapp a:hover {
+  background: #52CC5F;
   color: #fff;
 }
 
