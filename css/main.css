@@ -1305,3 +1305,7 @@ body::-webkit-scrollbar{
 .btn-more {
   padding-top: 30px;
 }
+
+#linhalateral {
+  border-right:  1px solid #bdbdbd;
+}
